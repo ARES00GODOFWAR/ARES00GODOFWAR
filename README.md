@@ -1,7 +1,7 @@
 <h2> Hi, I'm Zachary Clarke! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25px"></h2>
 
 
-I'm a computer science Student at University of Technology, Jamaica. I am an aspiring Full-Stack Web Developer and employee at UTech Sapna. My main languages are Javascript and PHP; My passion for software engineering comes from the result that any ideas we dream of can become reality by code, focus and effort.
+I'm a computer science Student at University of Technology, Jamaica. I am an aspiring Full-Stack Web Developer and employee at Digicel Group. My main languages are Javascript and PHP; My passion for software engineering comes from the result that any ideas we dream of can become reality by code, focus and effort.
 
 
 **Languages and Tools:**  
